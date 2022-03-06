@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Finance</title>
-      <link>https://chloemoon.com/tags/finance/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://chloemoon.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Philosophy</title>
       <link>https://chloemoon.com/tags/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
@@ -34,6 +25,24 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://chloemoon.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://chloemoon.com/tags/portfolio/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://chloemoon.com/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://chloemoon.com/tags/project/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://chloemoon.com/tags/project/</guid>
       <description></description>
     </item>
     
